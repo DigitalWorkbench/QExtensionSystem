@@ -1,6 +1,6 @@
 # QExtensionSystem
 
-QExtensionSystem is a cross-platform plugin extensionfor the Qt framework
+QExtensionSystem is a cross-platform plugin extension for the Qt framework
 
 ## Using QExtensionSystem
 
