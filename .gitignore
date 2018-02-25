@@ -1,0 +1,8 @@
+*.pro.*
+*.qmake*
+buil*
+
+Makefile*
+
+config.pri
+
